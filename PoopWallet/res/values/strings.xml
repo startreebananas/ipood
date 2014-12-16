@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Poop Wallet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="start_pooping">Start Pooping!</string>
+	<string name="stop_pooping">Stop Pooping!</string>
+	<string name="ytd">Year-To-Date</string>
+	<string name="todays_poop_earnings">Today\'s Poop Earnings</string>
+	<string name="poop_more">Poop More!</string>
+	<string name="poop_log">Poop Log</string>
+	<string name="poop">Poop!</string>
+	<string name="splash_string">How much are you getting paid to poop?</string>
+	<string name="whats_your">What\'s your</string>
+	<string name="or">or</string>
+	<string name="hourly_rate">Hourly Rate</string>
+	<string name="annual_salary">Annual Salary</string>
+	<string name="dollars">dollars</string>
+	<string name="per">per</string>
+	<string name="hour">hour</string>
+	<string name="year">year</string>
+	<string name="lets_start_pooping">Let\'s start pooping!</string>
+	<string name="you_got_paid">You got paid</string>
+	<string name="to_poop_today">to poop today!</string>
+	<string name="to_poop_this_year">to poop this year!</string>
+</resources>
